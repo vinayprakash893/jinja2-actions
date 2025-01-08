@@ -1,6 +1,7 @@
 FROM python:3.11-slim
 
 WORKDIR /app
+RUN chmod +x "/app/entrypoint.py"
 ENTRYPOINT ["/app/entrypoint.py"]
 
 COPY poetry.lock pyproject.toml README.md ./
