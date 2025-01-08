@@ -1,7 +1,7 @@
 [![release](https://img.shields.io/github/v/release/cuchi/jinja2-action?style=flat-square)](https://github.com/cuchi/jinja2-action/releases/latest)
 [![marketplace](https://img.shields.io/badge/marketplace-jinja2--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/jinja2-action)
 
-Jinja2 is a fast and straightforward templating engine. You can use this action
+Jinja2 is a fast and straightforward templating engine. You can use this actiona
 to easily run it in your GitHub workflows.
 
 
